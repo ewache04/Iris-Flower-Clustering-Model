@@ -1,5 +1,5 @@
 # Assignment 5: Clustering using K-means Algorithm
-# Author: Jeremiah E. OChepo
+# Author: Jeremiah E. Ochepo
 # Date: March, 29, 2024
 
 # Check if the tidyverse package is already installed
